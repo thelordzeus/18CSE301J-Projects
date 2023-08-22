@@ -13,7 +13,7 @@ Welcome to the largest open-source collaborative project for our course ever pre
 ## Table of Contents
 
 - [Home](https://github.com/thelordzeus/18CSE301J-Projects/)
-- [Projects](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Projects.md)
+- [Projects](https://github.com/thelordzeus/18CSE301J-Projects/blob/main/Projects.md)
 - [Presentations](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Presentations.md)
 - [Final Video](https://github.com/StoryTelling-UsingData/18CSE301J-Projects/blob/main/Final-Visualization.md)
 - [Final Project Docs](https://github.com/StoryTelling-UsingData/18CSE301J-Projects/blob/main/Final-Visualization.md)
