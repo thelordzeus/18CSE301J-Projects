@@ -36,5 +36,33 @@
 | 27   | Sarthak Singh (RA2111050010022)             | 1     |               |      |         |
 | 28   | Dhruv Bharara (RA2111050010033)            | 1     |               |      |         |
 | 29   | Pritesh Panda (RA2111050010034)            | 1     |               |      |         |
-
-
+| 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     |               |      |         |
+| 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     |               |      |         |
+| 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     |               |      |         |
+| 33   | JATIN MANWANI (RA2111003011548)            | 2     |               |      |         |
+| 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |               |      |         |
+| 35   | KOTTEM KALYAN (RA2111003011834)            | 2     |               |      |         |
+| 36   | OMESH SHUKLA (RA2111003011857)            | 2     |               |      |         |
+| 37   | ADITHYA K (RA2111003011920)            | 2     |               |      |         |
+| 38   | SHARAD ASAWA (RA2111026010365)            | 2     |               |      |         |
+| 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     |               |      |         |
+| 40   | GRACY ARORA (RA2111026010390)            | 2     |               |      |         |
+| 41   | YUVRAJ SINGH (RA2111026010425)            | 2     |               |      |         |
+| 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     |               |      |         |
+| 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |               |      |         |
+| 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     |               |      |         |
+| 45   | GAYATHRI R (RA2111029010033)            | 2     |               |      |         |
+| 46   | DHRUB DUBEY (RA2111029010045)            | 2     |               |      |         |
+| 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |               |      |         |
+| 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     |               |      |         |
+| 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |               |      |         |
+| 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
+| 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
+| 52   | MANASWITA VERMA (RA2111031010068)            | 2     |               |      |         |
+| 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
+| 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
+| 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     |               |      |         |
+| 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     |               |      |         |
+| 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |               |      |         |
+| 58   | DIYA LEELA VARGHESE (RA2111033010117)            | 2     |               |      |         |
+| 59   | MAGESH CHOCKALINGAM (RA2111051010039)            | 2     |               |      |         |
