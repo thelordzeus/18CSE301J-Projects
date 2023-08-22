@@ -23,15 +23,13 @@ Welcome to the largest open-source collaborative project for our course ever pre
 
 
 
-## Contributors
+## 🦸 Project Contributors:
 Thanks to the following contributors for their contributions to this Data Visualization gallery
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-     
-### 🦸 Project Contributors:
 
 <a href="https://github.com/thelordzeus/18CSE301J-Projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=thelordzeus/18CSE301J-Projects" />
