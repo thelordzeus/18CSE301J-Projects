@@ -1,7 +1,11 @@
 # 18CSE301J-Projects
 
 ### Tools Used
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![D3js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![D3js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) [![Google Colab](https://img.shields.io/badge/Google%20Colab-white?style=for-the-badge&logo=google-colab&logoColor=orange&color=orange)](https://colab.research.google.com/) ![Gephi](https://img.shields.io/badge/Gephi-white?style=for-the-badge&color=black)
+
+
+
+
 
 
 ### Contributors List 
