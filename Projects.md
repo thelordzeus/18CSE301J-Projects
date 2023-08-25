@@ -60,8 +60,12 @@
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     |      |         |
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |      |         |
-| 50   | GAVISH KUMAR
-
+| 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
+| 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
+| 52   | MANASWITA VERMA (RA2111031010068)            | 2     |               |      |         |
+| 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
+| 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
+| 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     |               |      |         |
 | 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     |               |      |         |
 | 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |               |      |         |
 | 58   | DIYA LEELA VARGHESE (RA2111033010117)            | 2     |               |      |         |
