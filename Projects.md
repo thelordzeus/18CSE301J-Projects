@@ -33,7 +33,7 @@
 | 20   | ANOUSHKA SANJEEV (RA2111028010172)         | 1     |      |         |
 | 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |      |         |
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
-| 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |https://infoviz095.netlify.app/      |         |
+| 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |Link[https://infoviz095.netlify.app/]      |         |
 | 24   | KARTIK ARORA (RA2111030010102)             | 1     |      |         |
 | 25   | ARNAV SHUKLA (RA2111050010001)             | 1     |      |         |
 | 26   | SWASTIK DAS  (RA2111050010006)             | 1     |      |         |
