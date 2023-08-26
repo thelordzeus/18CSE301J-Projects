@@ -11,7 +11,7 @@
 ### Contributors List 
 | S.No | Name  (Roll No)           | Batch | Link | Updated |
 |------|---------------------------|-------|------|---------|
-| 1    | TANISHQUE KUMAR (RA2111003010086)          | 1     |      |         |
+| 1    | Arnav Shukla (RA2111050010001)          | 1     | [Link](https://info-viz.vercel.app)     |         |
 | 2    | AMAN PRASAD GUPTA (RA2111003010095)        | 1     |      |         |
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |      |         |
 | 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
@@ -35,7 +35,7 @@
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |[Link](https://infoviz095.netlify.app/)      |         |
 | 24   | KARTIK ARORA (RA2111030010102)             | 1     |      |         |
-| 25   | ARNAV SHUKLA (RA2111050010001)             | 1     |      |         |
+| 25   | TANISHQUE KUMAR (RA211100301008)             | 1     |      |         |
 | 26   | SWASTIK DAS  (RA2111050010006)             | 1     |      |         |
 | 27   | Sarthak Singh (RA2111050010022)             | 1     |      |         |
 | 28   | Dhruv Bharara (RA2111050010033)            | 1     |      |         |
