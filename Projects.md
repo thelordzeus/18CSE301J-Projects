@@ -67,6 +67,6 @@
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
 | 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     |               |      |         |
 | 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     |               |      |         |
-| 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |               |      |         |
+| 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |   https://main--superlative-nougat-0cc1e5.netlify.app/            |      |         |
 | 58   | DIYA LEELA VARGHESE (RA2111033010117)            | 2     |               |      |         |
 | 59   | MAGESH CHOCKALINGAM (RA2111051010039)            | 2     |               |      |         |
