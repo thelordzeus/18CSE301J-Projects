@@ -48,9 +48,9 @@
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
 | 36   | OMESH SHUKLA (RA2111003011857)            | 2     |      |         |
 | 37   | ADITHYA K (RA2111003011920)            | 2     |      |         |
-| 38   | SHARAD ASAWA (RA2111026010365)            | 2     |      |         |
-| 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     |      |         |
-| 40   | GRACY ARORA (RA2111026010390)            | 2     |      |         |
+| 38   | SHARAD ASAWA (RA2111026010365)            | 2     |   [Link](https://information-visualization-kgs.netlify.app)   |         |
+| 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     | [Link](https://information-visualization-kgs.netlify.app)     |         |
+| 40   | GRACY ARORA (RA2111026010390)            | 2     |    [Link](https://information-visualization-kgs.netlify.app)  |         |
 | 41   | YUVRAJ SINGH (RA2111026010425)            | 2     | [Link](https://information-visualization-assignment-1-sigma.vercel.app/)     |         |
 | 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     | [Link](https://information-visualization-assignment-1-b6aq.vercel.app/)     |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
