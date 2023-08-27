@@ -34,7 +34,7 @@
 | 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |      |         |
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |[Link](https://infoviz095.netlify.app/)      |         |
-| 24   | KARTIK ARORA (RA2111030010102)             | 1     |      |         |
+| 24   | KARTIK ARORA (RA2111030010102)             | 1     |[Link](https://github.com/firepopsicle/InfoViz01/tree/main)    |         |
 | 25   | TANISHQUE KUMAR (RA211100301008)             | 1     |      |         |
 | 26   | SWASTIK DAS  (RA2111050010006)             | 1     |      |         |
 | 27   | Sarthak Singh (RA2111050010022)             | 1     |      |         |
