@@ -22,7 +22,7 @@
 | 9    | SHAIK SOHEL PASHA (RA2111003010669)        | 1     |  [Link](https://sohel669.github.io/Shaik_Sohel_Pasha-Information_Visualization/)    |         |
 | 10   | SANGVIKER AALAP (RA2111003010690)          | 1     |[Link](https://aalapsangvikar.github.io/RA2111003010690_Information_Visualization/)      |         |
 | 11   | C HEM SWAROOP SAI (RA2111003010692)        | 1     |      |         |
-| 12   | HARSH S MENON (RA2111026010141)            | 1     |      |         |
+| 12   | HARSH S MENON (RA2111026010141)            | 1     | [Link](https://hg3975.wixsite.com/my-site)     |         |
 | 13   | FARHAN MIRZA (RA2111026010147)             | 1     |      |         |
 | 14   | DHANUSH D  (RA2111026010248)               | 1     |      |         |
 | 15   | SHREEYA CHAUHAN (RA2111026010276)          | 1     |      |         |
