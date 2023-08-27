@@ -14,7 +14,7 @@
 | 1    | Arnav Shukla (RA2111050010001)          | 1     | [Link](https://info-viz.vercel.app)     |         |
 | 2    | AMAN PRASAD GUPTA (RA2111003010095)        | 1     |[Link](https://amangupta5555.github.io/Home.html)        |         |
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |[Link](https://18cse301j-anubhavpathak.vercel.app/)      |         |
-| 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
+| 4    | RAHUL ARORA (RA2111003010160)             | 1     | [Link](https://rj3391.wixsite.com/mysite)     |         |
 | 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
 | 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |[Link](https://mohit2pal.github.io/InfoViz-18CSE201J_RA2111003010185/)      |         |
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
