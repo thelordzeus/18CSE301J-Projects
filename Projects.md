@@ -16,7 +16,7 @@
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |[Link](https://18cse301j-anubhavpathak.vercel.app/)      |         |
 | 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
 | 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
-| 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |      |         |
+| 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |[Link](https://mohit2pal.github.io/InfoViz-18CSE201J_RA2111003010185/)      |         |
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
 | 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://info-viz-512.netlify.app/)       |        |     |
 | 9    | SHAIK SOHEL PASHA (RA2111003010669)        | 1     |  [Link](https://sohel669.github.io/Shaik_Sohel_Pasha-Information_Visualization/)    |         |
@@ -35,9 +35,9 @@
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |[Link](https://infoviz095.netlify.app/)      |         |
 | 24   | KARTIK ARORA (RA2111030010102)             | 1     |[Link](https://github.com/firepopsicle/InfoViz01/tree/main)    |         |
-| 25   | TANISHQUE KUMAR (RA211100301008)             | 1     |      |         |
+| 25   | TANISHQUE KUMAR (RA211100301008)           | 1     |[Link](https://github.com/Tani2189/Infomation-Visualization-086.git)     |         |
 | 26   | SWASTIK DAS  (RA2111050010006)             | 1     | [Link](https://18-cse-301-j.vercel.app/)     |         |
-| 27   | Sarthak Singh (RA2111050010022)             | 1     |      |         |
+| 27   | Sarthak Singh (RA2111050010022)             | 1     |[Link](https://sa6212.github.io/infoviz/)      |         |
 | 28   | Dhruv Bharara (RA2111050010033)            | 1     | [Link](https://ch3atz.github.io/infoviz/)     |         |
 | 29   | Pritesh Panda (RA2111050010034)            | 1     | [Link](https://infoviz034.vercel.app/)      |         |
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     |      |         |
@@ -48,9 +48,9 @@
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
 | 36   | OMESH SHUKLA (RA2111003011857)            | 2     |      |         |
 | 37   | ADITHYA K (RA2111003011920)            | 2     | [Link](https://github.com/adhikris28/INFO-VIZ)     |         |
-| 38   | SHARAD ASAWA (RA2111026010365)            | 2     |      |         |
-| 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     |      |         |
-| 40   | GRACY ARORA (RA2111026010390)            | 2     |      |         |
+| 38   | SHARAD ASAWA (RA2111026010365)            | 2     |   [Link](https://information-visualization-kgs.netlify.app)   |         |
+| 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     | [Link](https://information-visualization-kgs.netlify.app)     |         |
+| 40   | GRACY ARORA (RA2111026010390)            | 2     |    [Link](https://information-visualization-kgs.netlify.app)  |         |
 | 41   | YUVRAJ SINGH (RA2111026010425)            | 2     | [Link](https://information-visualization-assignment-1-sigma.vercel.app/)     |         |
 | 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     | [Link](https://information-visualization-assignment-1-b6aq.vercel.app/)     |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
@@ -62,11 +62,11 @@
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |      |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
 | 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
-| 52   | MANASWITA VERMA (RA2111031010068)            | 2     |               |      |         |
+| 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
 | 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
 | 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     |               |      |         |
 | 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     |               |      |         |
 | 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |  [Link](https://main--superlative-nougat-0cc1e5.netlify.app/)            |      |         |
 | 58   | DIYA LEELA VARGHESE (RA2111033010117)            | 2     |   [Link](https://diyalv.github.io/18CSE301J_RA2111033010117/)             |      |         |
-| 59   | MAGESH CHOCKALINGAM (RA2111051010039)            | 2     |               |      |         |
+| 59   | MAGESH CHOCKALINGAM (RA2111051010039)            | 2     |   [Link](https://github.com/magesh-7/info-viz/blob/main/README.md)          |      |         |
