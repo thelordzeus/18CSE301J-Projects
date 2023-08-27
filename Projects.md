@@ -20,7 +20,7 @@
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
 
 
-| 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://github.com/D1vy4nsh/Divyanshtyagi-RA2111003010512)       |        |
+| 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://info-viz-512.netlify.app/)       |        |
 
 | 9    | SHAIK SOHEL PASHA (RA2111003010669)        | 1     |  [Link](https://sohel669.github.io/Shaik_Sohel_Pasha-Information_Visualization/)    |         |
 | 10   | SANGVIKER AALAP (RA2111003010690)          | 1     |[Link](https://aalapsangvikar.github.io/RA2111003010690_Information_Visualization/)      |         |
