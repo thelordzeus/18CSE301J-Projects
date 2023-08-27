@@ -18,7 +18,10 @@
 | 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
 | 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |      |         |
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
-| 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://info-viz-512.netlify.app/)
+
+
+| 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://github.com/D1vy4nsh/Divyanshtyagi-RA2111003010512)       |        |
+
 | 9    | SHAIK SOHEL PASHA (RA2111003010669)        | 1     |  [Link](https://sohel669.github.io/Shaik_Sohel_Pasha-Information_Visualization/)    |         |
 | 10   | SANGVIKER AALAP (RA2111003010690)          | 1     |[Link](https://aalapsangvikar.github.io/RA2111003010690_Information_Visualization/)      |         |
 | 11   | C HEM SWAROOP SAI (RA2111003010692)        | 1     |      |         |
@@ -34,9 +37,9 @@
 | 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |      |         |
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |[Link](https://infoviz095.netlify.app/)      |         |
-| 24   | KARTIK ARORA (RA2111030010102)             | 1     |      |         |
+| 24   | KARTIK ARORA (RA2111030010102)             | 1     |[Link](https://github.com/firepopsicle/InfoViz01/tree/main)    |         |
 | 25   | TANISHQUE KUMAR (RA211100301008)             | 1     |      |         |
-| 26   | SWASTIK DAS  (RA2111050010006)             | 1     |      |         |
+| 26   | SWASTIK DAS  (RA2111050010006)             | 1     | [Link](https://18-cse-301-j.vercel.app/)     |         |
 | 27   | Sarthak Singh (RA2111050010022)             | 1     |      |         |
 | 28   | Dhruv Bharara (RA2111050010033)            | 1     |      |         |
 | 29   | Pritesh Panda (RA2111050010034)            | 1     |      |         |
@@ -54,7 +57,7 @@
 | 41   | YUVRAJ SINGH (RA2111026010425)            | 2     |      |         |
 | 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     |      |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
-| 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     |      |         |
+| 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link]https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009     |         |
 | 45   | GAYATHRI R (RA2111029010033)            | 2     |      |         |
 | 46   | DHRUB DUBEY (RA2111029010045)            | 2     |      |         |
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
