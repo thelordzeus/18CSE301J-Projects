@@ -15,7 +15,7 @@
 | 2    | AMAN PRASAD GUPTA (RA2111003010095)        | 1     |      |         |
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |      |         |
 | 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
-| 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |      |         |
+| 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
 | 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |      |         |
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
 | 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |      |         |
