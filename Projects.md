@@ -30,7 +30,7 @@
 | 17   | MYLA GREESHMANTH REDDY (RA2111028010074)   | 1     |  [Link](https://sites.google.com/srmist.edu.in/greesh074-jyothendra210/home)    |         |
 | 18   | NITESH DILIP GUPTA (RA2111028010098)       | 1     |      |         |
 | 19   | VANSHIKA GUPTA (RA2111028010132)           | 1     |      |         |
-| 20   | ANOUSHKA SANJEEV (RA2111028010172)         | 1     | [Link](https://github.com/as5492/18CSE301J_RA2111028010172)    |         |
+| 20   | ANOUSHKA SANJEEV (RA2111028010172)         | 1     |      |         |
 | 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |[Link](https://sites.google.com/srmist.edu.in/greesh074-jyothendra210/home)     |         |
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |[Link](https://infoviz095.netlify.app/)      |         |
@@ -63,7 +63,7 @@
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
 | 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
 | 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
-| 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
+| 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |[link](https://github.com/Kuladeep-2710/kuladeepreddy.github.io/tree/main)              |      |         |
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
 | 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     |               |      |         |
 | 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     |               |      |         |
