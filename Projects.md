@@ -38,7 +38,7 @@
 | 25   | TANISHQUE KUMAR (RA211100301008)             | 1     |      |         |
 | 26   | SWASTIK DAS  (RA2111050010006)             | 1     | [Link](https://18-cse-301-j.vercel.app/)     |         |
 | 27   | Sarthak Singh (RA2111050010022)             | 1     |      |         |
-| 28   | Dhruv Bharara (RA2111050010033)            | 1     |      |         |
+| 28   | Dhruv Bharara (RA2111050010033)            | 1     | [Link](https://ch3atz.github.io/infoviz/)     |         |
 | 29   | Pritesh Panda (RA2111050010034)            | 1     | [Link](https://infoviz034.vercel.app/)      |         |
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     |      |         |
 | 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     |      |         |
