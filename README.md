@@ -35,6 +35,7 @@ Thanks to the following contributors for their contributions to this Data Visual
   <img src="https://contrib.rocks/image?repo=thelordzeus/18CSE301J-Projects" />
 </a>
 
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
