@@ -14,9 +14,9 @@
 | 1    | Arnav Shukla (RA2111050010001)          | 1     | [Link](https://info-viz.vercel.app)     |         |
 | 2    | AMAN PRASAD GUPTA (RA2111003010095)        | 1     |[Link](https://amangupta5555.github.io/Home.html)        |         |
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |[Link](https://18cse301j-anubhavpathak.vercel.app/)      |         |
-| 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
+| 4    | RAHUL ARORA (RA2111003010160)             | 1     | [Link](https://rj3391.wixsite.com/mysite)     |         |
 | 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
-| 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |      |         |
+| 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |[Link](https://mohit2pal.github.io/InfoViz-18CSE201J_RA2111003010185/)      |         |
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
 | 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://info-viz-512.netlify.app/)       |        |     |
 | 9    | SHAIK SOHEL PASHA (RA2111003010669)        | 1     |  [Link](https://sohel669.github.io/Shaik_Sohel_Pasha-Information_Visualization/)    |         |
@@ -47,7 +47,7 @@
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |      |         |
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
 | 36   | OMESH SHUKLA (RA2111003011857)            | 2     |      |         |
-| 37   | ADITHYA K (RA2111003011920)            | 2     |[Link](https://github.com/adhikris28/INFO-VIZ)      |         |
+| 37   | ADITHYA K (RA2111003011920)            | 2     | [Link](https://github.com/adhikris28/INFO-VIZ)     |         |
 | 38   | SHARAD ASAWA (RA2111026010365)            | 2     |   [Link](https://information-visualization-kgs.netlify.app)   |         |
 | 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     | [Link](https://information-visualization-kgs.netlify.app)     |         |
 | 40   | GRACY ARORA (RA2111026010390)            | 2     |    [Link](https://information-visualization-kgs.netlify.app)  |         |
@@ -55,7 +55,7 @@
 | 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     | [Link](https://information-visualization-assignment-1-b6aq.vercel.app/)     |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
 | 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link](https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009)     |         |
-| 45   | GAYATHRI R (RA2111029010033)            | 2     |      |         |
+| 45   | GAYATHRI R (RA2111029010033)            | 2     |[Link](https://github.com/gr2100/Fast-Food-chain-analysis)    |         |
 | 46   | DHRUB DUBEY (RA2111029010045)            | 2     |      |         |
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     |      |         |
