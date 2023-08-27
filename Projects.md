@@ -52,7 +52,7 @@
 | 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     |      |         |
 | 40   | GRACY ARORA (RA2111026010390)            | 2     |      |         |
 | 41   | YUVRAJ SINGH (RA2111026010425)            | 2     | [Link](https://information-visualization-assignment-1-sigma.vercel.app/)     |         |
-| 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     |      |         |
+| 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     | [Link](https://information-visualization-assignment-1-b6aq.vercel.app/)     |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
 | 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link](https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009)     |         |
 | 45   | GAYATHRI R (RA2111029010033)            | 2     |      |         |
