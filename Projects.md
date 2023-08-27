@@ -54,7 +54,7 @@
 | 41   | YUVRAJ SINGH (RA2111026010425)            | 2     |      |         |
 | 42   | PRIYANSHU RAJ (RA2111026010436)            | 2     |      |         |
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
-| 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     |      |         |
+| 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link](https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009)     |         |
 | 45   | GAYATHRI R (RA2111029010033)            | 2     |      |         |
 | 46   | DHRUB DUBEY (RA2111029010045)            | 2     |      |         |
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
