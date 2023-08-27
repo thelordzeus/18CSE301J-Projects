@@ -39,7 +39,7 @@
 | 28   | Dhruv Bharara (RA2111050010033)            | 1     | [Link](https://ch3atz.github.io/infoviz/)     |         |
 | 29   | Pritesh Panda (RA2111050010034)            | 1     | [Link](https://infoviz034.vercel.app/)      |         |
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     |      |         |
-| 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     |      |         |
+| 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     | [Link](https://information-visualization-one.vercel.app/)     |         |
 | 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     | [Link](https://mahe243.github.io/Information-Visualization/)    |         |
 | 33   | JATIN MANWANI (RA2111003011548)            | 2     |      |         |
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |      |         |
