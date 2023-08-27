@@ -42,7 +42,7 @@
 | 29   | Pritesh Panda (RA2111050010034)            | 1     | [Link](https://infoviz034.vercel.app/)      |         |
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     |      |         |
 | 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     |      |         |
-| 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     |      |         |
+| 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     | [Link](https://mahe243.github.io/Information-Visualization/)    |         |
 | 33   | JATIN MANWANI (RA2111003011548)            | 2     |      |         |
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |      |         |
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
