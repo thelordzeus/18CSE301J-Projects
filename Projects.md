@@ -62,7 +62,7 @@
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |      |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
 | 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
-| 52   | MANASWITA VERMA (RA2111031010068)            | 2     |               |      |         |
+| 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
 | 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
 | 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     |               |      |         |
