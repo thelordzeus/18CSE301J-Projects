@@ -69,4 +69,4 @@
 | 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     |               |      |         |
 | 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |  [Link](https://main--superlative-nougat-0cc1e5.netlify.app/)            |      |         |
 | 58   | DIYA LEELA VARGHESE (RA2111033010117)            | 2     |   [Link](https://diyalv.github.io/18CSE301J_RA2111033010117/)             |      |         |
-| 59   | MAGESH CHOCKALINGAM (RA2111051010039)            | 2     |               |      |         |
+| 59   | MAGESH CHOCKALINGAM (RA2111051010039)            | 2     |   [Link](https://github.com/magesh-7/info-viz/blob/main/README.md)          |      |         |
