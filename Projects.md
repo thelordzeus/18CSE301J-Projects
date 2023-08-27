@@ -12,7 +12,7 @@
 | S.No | Name  (Roll No)           | Batch | Link | Updated |
 |------|---------------------------|-------|------|---------|
 | 1    | Arnav Shukla (RA2111050010001)          | 1     | [Link](https://info-viz.vercel.app)     |         |
-| 2    | AMAN PRASAD GUPTA (RA2111003010095)        | 1     |      |         |
+| 2    | AMAN PRASAD GUPTA (RA2111003010095)        | 1     |[Link](https://amangupta5555.github.io/Home.html)        |         |
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |      |         |
 | 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
 | 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
