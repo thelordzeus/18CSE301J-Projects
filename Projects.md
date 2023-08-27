@@ -47,7 +47,7 @@
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |      |         |
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
 | 36   | OMESH SHUKLA (RA2111003011857)            | 2     |      |         |
-| 37   | ADITHYA K (RA2111003011920)            | 2     |      |         |
+| 37   | ADITHYA K (RA2111003011920)            | 2     | [Link](https://github.com/adhikris28/INFO-VIZ)     |         |
 | 38   | SHARAD ASAWA (RA2111026010365)            | 2     |      |         |
 | 39   | KANUPRIYA JOHARI (RA2111026010373)            | 2     |      |         |
 | 40   | GRACY ARORA (RA2111026010390)            | 2     |      |         |
