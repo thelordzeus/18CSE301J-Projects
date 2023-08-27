@@ -41,7 +41,7 @@
 | 28   | Dhruv Bharara (RA2111050010033)            | 1     | [Link](https://ch3atz.github.io/infoviz/)     |         |
 | 29   | Pritesh Panda (RA2111050010034)            | 1     | [Link](https://infoviz034.vercel.app/)      |         |
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     |      |         |
-| 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     |      |         |
+| 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     | [Link](https://information-visualization-one.vercel.app/)     |         |
 | 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     | [Link](https://mahe243.github.io/Information-Visualization/)    |         |
 | 33   | JATIN MANWANI (RA2111003011548)            | 2     |      |         |
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |      |         |
@@ -59,7 +59,7 @@
 | 46   | DHRUB DUBEY (RA2111029010045)            | 2     |      |         |
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     |      |         |
-| 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link](https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
+| 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link] (https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
 | 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
 | 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
