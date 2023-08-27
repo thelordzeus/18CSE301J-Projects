@@ -61,7 +61,7 @@
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     |      |         |
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link](https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     |               |      |         |
-| 51   | YASHI JAIN (RA2111031010058)            | 2     |               |      |         |
+| 51   | YASHI JAIN (RA2111031010058)            | 2     |    https://yashijain.journoportfolio.com/srmist.edu.in/18cse301j/climatechange#/           |      |         |
 | 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
 | 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |               |      |         |
 | 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
