@@ -31,7 +31,7 @@
 | 18   | NITESH DILIP GUPTA (RA2111028010098)       | 1     |      |         |
 | 19   | VANSHIKA GUPTA (RA2111028010132)           | 1     |      |         |
 | 20   | ANOUSHKA SANJEEV (RA2111028010172)         | 1     |      |         |
-| 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |      |         |
+| 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |[Link](https://sites.google.com/srmist.edu.in/greesh074-jyothendra210/home)     |         |
 | 22   | AKSHAT PANDE  (RA2111030010057)            | 1     |      |         |
 | 23   | VIVIDH PANDEY (RA2111030010095)            | 1     |[Link](https://infoviz095.netlify.app/)      |         |
 | 24   | KARTIK ARORA (RA2111030010102)             | 1     |[Link](https://github.com/firepopsicle/InfoViz01/tree/main)    |         |
