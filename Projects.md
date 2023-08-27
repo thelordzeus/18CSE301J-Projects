@@ -28,7 +28,7 @@
 | 15   | SHREEYA CHAUHAN (RA2111026010276)          | 1     |      |         |
 | 16   | SYED ADNAN HUSSAINY (RA211102701000)      | 1     |  [Link](https://github.com/SyedAdnanHussainy/18CSE301J_RA2111027010008.git)    |         |
 | 17   | MYLA GREESHMANTH REDDY (RA2111028010074)   | 1     |  [Link](https://sites.google.com/srmist.edu.in/greesh074-jyothendra210/home)    |         |
-| 18   | NITESH DILIP GUPTA (RA2111028010098)       | 1     |      |         |
+| 18   | NITESH DILIP GUPTA (RA2111028010098)       | 1     |  [Link](https://info-viz-three.vercel.app/)    |         |
 | 19   | VANSHIKA GUPTA (RA2111028010132)           | 1     |      |         |
 | 20   | ANOUSHKA SANJEEV (RA2111028010172)         | 1     | [Link](https://github.com/as5492/18CSE301J_RA2111028010172)    |         |
 | 21   | TAMARANI VENKATA JYOTHENDRA (RA2111028010210)| 1     |[Link](https://sites.google.com/srmist.edu.in/greesh074-jyothendra210/home)     |         |
