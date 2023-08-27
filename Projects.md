@@ -16,7 +16,7 @@
 | 3    | ANUBHAV PATHAK (RA2111003010120)           | 1     |[Link](https://18cse301j-anubhavpathak.vercel.app/)      |         |
 | 4    | RAHUL ARORA (RA2111003010160)             | 1     |      |         |
 | 5    | PRANJAL MISHRA (RA2111003010184)           | 1     |[Link](https://infoviz-project.vercel.app/)      |         |
-| 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |      |         |
+| 6    | SUBHA BAL PAL (RA2111003010185)            | 1     |[Link](https://mohit2pal.github.io/InfoViz-18CSE201J_RA2111003010185/)      |         |
 | 7    | TANUJ RAO  (RA2111003010210)               | 1     |      |         |
 | 8    | DIVYANSH TYAGI (RA2111003010512)           | 1     |[Link](https://info-viz-512.netlify.app/)       |        |     |
 | 9    | SHAIK SOHEL PASHA (RA2111003010669)        | 1     |  [Link](https://sohel669.github.io/Shaik_Sohel_Pasha-Information_Visualization/)    |         |
