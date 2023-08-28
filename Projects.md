@@ -62,7 +62,7 @@
 | 51   | YASHI JAIN (RA2111031010058)            | 2     | [Link](https://yashijain.journoportfolio.com/)              |      |         |
 | 52   | MANASWITA VERMA (RA2111031010068)            | 2     |[Link](https://sites.google.com/srmist.edu.in/18cse301jsocialnetworkanalysis/home)              |      |         |
 | 53   | MADA REDDY KULADEEP (RA2111031010072)            | 2     |[Llink](https://github.com/Kuladeep-2710/kuladeepreddy.github.io/tree/main)            |      |         |
-| 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |               |      |         |
+| 54   | THORLIKONDA VAMSI KRISHNA (RA2111031010117)            | 2     |[link](https://github.com/krishnathorlikonda/Vamsi-117github.io)              |      |         |
 | 55   | SHARATH KOLLATH RANJITH (RA2111032010039)            | 2     | [Link](https://github.com/SharathDaPeg/Information-Visualization-039)               |      |         |
 | 56   | CHENNA VANSHIKA (RA2111032010059)            | 2     | [Link](https://sites.google.com/view/visualisationsbyvanshika/home)               |      |         |
 | 57   | NIDHISH KHEMKA (RA2111033010114)            | 2     |  [Link](https://main--superlative-nougat-0cc1e5.netlify.app/)            |      |         |
