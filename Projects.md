@@ -54,7 +54,7 @@
 | 43   | PRADYUMN PRAKASH SRIVASTAVA (RA2111027010146)            | 2     |      |         |
 | 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link](https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009)     |         |
 | 45   | GAYATHRI R (RA2111029010033)            | 2     |[Link](https://fastfoodinfo.my.canva.site/)    |         |
-| 46   | DHRUB DUBEY (RA2111029010045)            | 2     |      |         |
+| 46   | DHRUB DUBEY (RA2111029010045)            | 2     | [Link](https://github.com/Crdhruv/Info-Viz)     |         |
 | 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     | [Link](https://github.com/Shoumik21b/Info-Visualization)      |         |
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link](https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
