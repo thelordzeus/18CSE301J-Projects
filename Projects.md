@@ -21,7 +21,7 @@
 | 10   | SANGVIKER AALAP (RA2111003010690)          | 1     |[Link](https://aalapsangvikar.github.io/RA2111003010690_Information_Visualization/)      |         |
 | 11   | C HEM SWAROOP SAI (RA2111003010692)        | 1     |[Link](https://github.com/Hemswaroopsai/18CSE301J-INFO_-VIS/blob/main/Project)      |         |
 | 12   | HARSH S MENON (RA2111026010141)            | 1     | [Link](https://hg3975.wixsite.com/my-site)     |         |
-| 13   | FARHAN MIRZA (RA2111026010147)             | 1     |      |         |
+| 13   | FARHAN MIRZA (RA2111026010147)             | 1     | [Link](https://farhanmirza407.wixsite.com/iv-project)     |         |
 | 14   | DHANUSH D  (RA2111026010248)               | 1     | [Link](https://github.com/cyrDhanush/18CSE301J_RA2111026010248)     |         |
 | 15   | SHREEYA CHAUHAN (RA2111026010276)          | 1     |      |         |
 | 16   | SYED ADNAN HUSSAINY (RA211102701000)      | 1     |  [Link](https://github.com/SyedAdnanHussainy/18CSE301J_RA2111027010008.git)    |         |
@@ -55,7 +55,7 @@
 | 44   | S.MEENAKSHI GAYATHRI (RA2111029010009)            | 2     | [Link](https://github.com/Meenakshi-Gayathri/Information-Vizualisation-RA2111029010009)     |         |
 | 45   | GAYATHRI R (RA2111029010033)            | 2     |[Link](https://fastfoodinfo.my.canva.site/)    |         |
 | 46   | DHRUB DUBEY (RA2111029010045)            | 2     | [Link](https://github.com/Crdhruv/Info-Viz)     |         |
-| 47   | MRINALINI VETTRI (RA2111029010054)            | 2     |      |         |
+| 47   | MRINALINI VETTRI (RA2111029010054)            | 2     | [Link](https://github.com/mv5111/RA2111029010054-INFO-VIZ)      |         |
 | 48   | SHOUMIK BEHERA (RA2111029010058)            | 2     | [Link](https://github.com/Shoumik21b/Info-Visualization)      |         |
 | 49   | BAVISHYATH. K. R (RA2111030010174)            | 2     |[Link](https://github.com/Bavishyath/Deforestation-due-to-Development-in-South-India.git)     |         |
 | 50   | GAVISH KUMAR (A2111031010048)            | 2     | [Link](https://github.com/gavishkumar/-information-viz.#-information-viz)              |      |         |
