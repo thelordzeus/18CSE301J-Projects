@@ -41,7 +41,7 @@
 | 30   | ABHISHEK LALIT TANDEKAR (RA2111003011115)            | 2     | [Link](https://github.com/al8060/18CSE301J-INFORMATION-VIZULIZATION/tree/main)      |         |
 | 31   | ADHAVAN PONRAM (RA2111003011438)            | 2     | [Link](https://information-visualization-one.vercel.app/)     |         |
 | 32   | KARRI NAGA MAHESWARA REDDY (RA2111003011524)            | 2     | [Link](https://mahe243.github.io/Information-Visualization/)    |         |
-| 33   | JATIN MANWANI (RA2111003011548)            | 2     |      |         |
+| 33   | JATIN MANWANI (RA2111003011548)            | 2     | [Link](https://manwanijatin22.wixsite.com/my-site)     |         |
 | 34   | SHIKHAR SHARMA (RA2111003011691)            | 2     |  [Link](https://github.com/Shikhar1233/Information-Visualization.git)    |         |
 | 35   | KOTTEM KALYAN (RA2111003011834)            | 2     | [Link](https://kalyankottem.github.io/18CSE301J_RA2111003011834/)     |         |
 | 36   | OMESH SHUKLA (RA2111003011857)            | 2     |      |         |
