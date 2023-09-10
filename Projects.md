@@ -6,7 +6,7 @@
 
 
 
-### Contributors List 
+### Contributors List
 | S.No | Name  (Roll No)           | Batch | Link | Updated |
 |------|---------------------------|-------|------|---------|
 | 1    | Arnav Shukla (RA2111050010001)          | 1     | [Link](https://info-viz.vercel.app)     |         |
