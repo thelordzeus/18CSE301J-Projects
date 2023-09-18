@@ -12,3 +12,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    5   | Shaik Sohel Pasha (RA2111003010669) <br/> Aalap Sangviker (RA2111003010690) <br/> Hem Swaroop Sai (RA2111003010692) | Unveiling Zepto | [Link](https://drive.google.com/file/d/1onTY38y2pRuUr9OpoNmO1K8yn6kbagqB/view) |
 |    6   | Arnav Shukla (RA2111050010001) <br/> Swastik Das (RA2111050010006)  | Car Sales Analysis in 2022 | [Link](https://www.canva.com/design/DAFugKEiADE/50IwT97QTHaJrB0Trga0bw/view?utm_content=DAFugKEiADE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 |    6   | Priyanshu Raj (RA2111026010436) <br/> Yuvraj Singh (RA2111026010420)  | Phone Usage Analysis | [Link](https://drive.google.com/file/d/1ATeuOZreZ3uCwYBS4zs27NJ-aYMqA8hK/view) |
+|    7   | Tanishque Kumar (RA2111003010086) <br/> Aman Gupta (RA2111003010095) | Global Superstore Sales till 2016 | [Link](https://github.com/AmanGupta5555/Information-Visualization.git) |
