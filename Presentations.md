@@ -12,3 +12,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    6   | Arnav Shukla (RA2111050010001) <br/> Swastik Das (RA2111050010006)  | Car Sales Analysis in 2022 | [Link](https://www.canva.com/design/DAFugKEiADE/50IwT97QTHaJrB0Trga0bw/view?utm_content=DAFugKEiADE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 |    7   | Priyanshu Raj (RA2111026010436) <br/> Yuvraj Singh (RA2111026010420)  | Phone Usage Analysis | [Link](https://drive.google.com/file/d/1ATeuOZreZ3uCwYBS4zs27NJ-aYMqA8hK/view) |
 |    8   | Jatin Manwani (RA2111003011548) <br/> Kottem Kalyan (RA2111003011834)  | Yamaha Bike Showroom Sales Analysis: 2021-2023 | [Link](https://kalyankottem.github.io/18CSE301J-INFOVIZ-CT2/ct2_report.pdf) |
+|    5   | Shaik Sohel Pasha (RA2111003010669) <br/> Aalap Sangviker (RA2111003010690) <br/> | Unveiling Zepto | [Link](https://drive.google.com/file/d/1onTY38y2pRuUr9OpoNmO1K8yn6kbagqB/view) |
