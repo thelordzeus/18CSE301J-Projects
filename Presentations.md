@@ -16,6 +16,6 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    9   | Diya Varghese (RA2111033010117)  | Financial Assessment: FSN E-Commerce Ventures Ltd. | [Link](https://www.canva.com/design/DAFuzC0MJfg/Isz3-h95bRB_lXjVuxL85A/view?utm_content=DAFuzC0MJfg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 |    10   |Manaswita Verma (RA2111031010068)|Social Network Analysis|[Link](https://drive.google.com/file/d/1PpOQGwAhmykyj6cKKkYD0JDG70_E2Lzf/view?usp=sharing)|
 |    11   |Pranjal Mishra (RA2111003010184) <br/> Subha Bal Pal (RA2111003010185) <br/> Rahul Arora (RA2111003030160)|Visualizing my Health|[Link](https://github.com/mohit2pal/18CSE301J-Projects/files/12653656/Infoviz-report.pdf)|
-|    12   |SHREEYA CHAUHAN (RA2111026010276)|ITSY BITSY|[Link](https://github.com/Shreeya-c/INFO-VIZ-RA2111026010276-/blob/8b0b0255fdd6b7a9e112c31b02cb3c67175c1b9f/Itsy%20bitsy_276.pdf)|
+|    12   |SHREEYA CHAUHAN (RA2111026010276)|ITSY BITSY|[Link](https://drive.google.com/file/d/1AQ3t9l-F2eWPQz35hNkhDt8VWqRIQprY/view?usp=sharing)|
 |    13   | Tanishque Kumar (RA2111003010086) <br/> Aman Gupta (RA2111003010095) | Global Superstore Sales till 2016 | [Link](https://github.com/AmanGupta5555/Information-Visualization.git) |
 |    14   | Pritesh Panda (RA2111050010034) <br/> Dhruv Bharara (RA2111050010033) <br/> Sarthak Singh (RA2111050010022) | Global OTT Market Analysis | [Link](https://drive.google.com/file/d/1Q6GvH3QuO_66dcfV07NACxkTOOxrwdp4/view?usp=sharing) |
