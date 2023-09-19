@@ -19,4 +19,6 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    12   |SHREEYA CHAUHAN (RA2111026010276)|ITSY BITSY|[Link](https://drive.google.com/file/d/1AQ3t9l-F2eWPQz35hNkhDt8VWqRIQprY/view?usp=sharing)|
 |    13   | Tanishque Kumar (RA2111003010086) <br/> Aman Gupta (RA2111003010095) | Global Superstore Sales till 2016 | [Link](https://github.com/AmanGupta5555/Information-Visualization.git) |
 |    14   | Pritesh Panda (RA2111050010034) <br/> Dhruv Bharara (RA2111050010033) <br/> Sarthak Singh (RA2111050010022) | Global OTT Market Analysis | [Link](https://drive.google.com/file/d/1Q6GvH3QuO_66dcfV07NACxkTOOxrwdp4/view?usp=sharing) |
-|    15   | Nidhish Khemka (RA2111033010114) | Convenience store sales analysis | [Link](https://drive.google.com/file/d/1mOJC9frNHfCLFda4ZMXRaMuhT71mZ054/view?usp=drivesdk) |
+|    15   | Nitesh Gupta (RA2111028010098)  | Steam Analysis | [Link](https://my.visme.co/view/g7363rrw-steam-research-report) |
+|    16   | Nidhish Khemka (RA2111033010114) | Convenience store sales analysis | [Link](https://drive.google.com/file/d/1mOJC9frNHfCLFda4ZMXRaMuhT71mZ054/view?usp=drivesdk) |
+
