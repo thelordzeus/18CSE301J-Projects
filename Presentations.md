@@ -21,5 +21,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    14   | Pritesh Panda (RA2111050010034) <br/> Dhruv Bharara (RA2111050010033) <br/> Sarthak Singh (RA2111050010022) | Global OTT Market Analysis | [Link](https://drive.google.com/file/d/1Q6GvH3QuO_66dcfV07NACxkTOOxrwdp4/view?usp=sharing) |
 |    15   | Nitesh Gupta (RA2111028010098)  | Steam Analysis | [Link](https://my.visme.co/view/g7363rrw-steam-research-report) |
 |    16   | Nidhish Khemka (RA2111033010114) | Convenience store sales analysis | [Link](https://drive.google.com/file/d/1mOJC9frNHfCLFda4ZMXRaMuhT71mZ054/view?usp=drivesdk) |
-|    17  | Gayathri R (RA2111029010033) <br/> Meenakshi Gayathri S(RA2111029010009) <br/> Mrinalini Vettri(RA2111029010054) | EduViz: Illuminating Education Trends
- | [Link](https://www.canva.com/design/DAFu0EOBuXA/BIYSVS385pTl28B6Cv4x9Q/view) |
+|    17  | Gayathri R (RA2111029010033) <br/> Meenakshi Gayathri S(RA2111029010009) <br/> Mrinalini Vettri(RA2111029010054) | EduViz: Illuminating Education Trends| [Link](https://www.canva.com/design/DAFu0EOBuXA/BIYSVS385pTl28B6Cv4x9Q/view) |
