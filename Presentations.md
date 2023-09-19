@@ -16,4 +16,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    9   | Diya Varghese (RA2111033010117)  | Financial Assessment: FSN E-Commerce Ventures Ltd. | [Link](https://www.canva.com/design/DAFuzC0MJfg/Isz3-h95bRB_lXjVuxL85A/view?utm_content=DAFuzC0MJfg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 |    10   |Manaswita Verma (RA2111031010068)|Social Network Analysis|[Link](https://drive.google.com/file/d/1PpOQGwAhmykyj6cKKkYD0JDG70_E2Lzf/view?usp=sharing)|
 |    11   |Pranjal Mishra (RA2111003010184) <br/> Subha Bal Pal (RA2111003010185) <br/> Rahul Arora (RA2111003030160)|Visualizing my Health|[Link](https://github.com/mohit2pal/18CSE301J-Projects/files/12653656/Infoviz-report.pdf)|
-
+|    12   |Sarthak Singh (RA2111050010022) <br/> Dhruv Bharara (RA2111050010033) <br/> Pritesh Panda (RA2111050010034)|Global OTT Market Analysis|[Link](https://drive.google.com/file/d/1Q6GvH3QuO_66dcfV07NACxkTOOxrwdp4/view?usp=sharing)|
