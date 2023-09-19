@@ -11,7 +11,6 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    4   | Anoushka Sanjeev (RA2111028010172) <br/> Vanshika Gupta (RA2111028010132) <br/> Dhanush D (RA2111026010248) | Najem Al Kakwab Paint Sales | [Link](https://drive.google.com/file/d/1Myk9yWKMW1_b6zLA0tQbG3ELb88dONTu/view?usp=drive_link) |
 |    5   | Shaik Sohel Pasha (RA2111003010669) <br/> Aalap Sangviker (RA2111003010690) <br/> | Unveiling Zepto | [Link](https://drive.google.com/file/d/1onTY38y2pRuUr9OpoNmO1K8yn6kbagqB/view) |
 |    6   | Arnav Shukla (RA2111050010001) <br/> Swastik Das (RA2111050010006)  | Car Sales Analysis in 2022 | [Link](https://www.canva.com/design/DAFugKEiADE/50IwT97QTHaJrB0Trga0bw/view?utm_content=DAFugKEiADE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
-|    7   | Priyanshu Raj (RA2111026010436) <br/> Yuvraj Singh (RA2111026010420)  | Phone Usage Analysis | [Link](https://drive.google.com/file/d/1ATeuOZreZ3uCwYBS4zs27NJ-aYMqA8hK/view) |
 |    8   | Jatin Manwani (RA2111003011548) <br/> Kottem Kalyan (RA2111003011834)  | Yamaha Bike Showroom Sales Analysis: 2021-2023 | [Link](https://kalyankottem.github.io/18CSE301J-INFOVIZ-CT2/ct2_report.pdf) |
 |    9   | Diya Varghese (RA2111033010117)  | Financial Assessment: FSN E-Commerce Ventures Ltd. | [Link](https://www.canva.com/design/DAFuzC0MJfg/Isz3-h95bRB_lXjVuxL85A/view?utm_content=DAFuzC0MJfg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 |    10   |Manaswita Verma (RA2111031010068)|Social Network Analysis|[Link](https://drive.google.com/file/d/1PpOQGwAhmykyj6cKKkYD0JDG70_E2Lzf/view?usp=sharing)|
@@ -21,4 +20,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    14   | Pritesh Panda (RA2111050010034) <br/> Dhruv Bharara (RA2111050010033) <br/> Sarthak Singh (RA2111050010022) | Global OTT Market Analysis | [Link](https://drive.google.com/file/d/1Q6GvH3QuO_66dcfV07NACxkTOOxrwdp4/view?usp=sharing) |
 |    15   | Nitesh Gupta (RA2111028010098)  | Steam Analysis | [Link](https://my.visme.co/view/g7363rrw-steam-research-report) |
 |    16   | Nidhish Khemka (RA2111033010114) | Convenience store sales analysis | [Link](https://drive.google.com/file/d/1mOJC9frNHfCLFda4ZMXRaMuhT71mZ054/view?usp=drivesdk) |
-
+|    17   | Priyanshu Raj (RA2111026010436) <br/> Yuvraj Singh (RA2111026010420)  | Phone Usage Analysis | [Link](https://drive.google.com/file/d/18dVDgKpJ2feUgyyE1tGaDTF-qI7hHiW7/view) |
