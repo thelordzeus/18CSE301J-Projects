@@ -22,3 +22,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    15   | Nitesh Gupta (RA2111028010098)  | Steam Analysis | [Link](https://my.visme.co/view/g7363rrw-steam-research-report) |
 |    16   | Nidhish Khemka (RA2111033010114) | Convenience store sales analysis | [Link](https://drive.google.com/file/d/1mOJC9frNHfCLFda4ZMXRaMuhT71mZ054/view?usp=drivesdk) |
 |    17  | Gayathri R (RA2111029010033) <br/> Meenakshi Gayathri S(RA2111029010009) <br/> Mrinalini Vettri(RA2111029010054) | EduViz: Illuminating Education Trends| [Link](https://www.canva.com/design/DAFu0EOBuXA/BIYSVS385pTl28B6Cv4x9Q/view) |
+|    18   | Anubhav Pathak (RA2111003010120)  | Expense Analysis | [Link](https://www.canva.com/design/DAFu9r0jA1s/JoQFZdGPV-NqG3mAmDjBMA/edit?utm_content=DAFu9r0jA1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
