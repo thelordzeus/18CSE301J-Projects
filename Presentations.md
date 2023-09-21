@@ -27,4 +27,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    20   | Gracy Arora (RA2111026010390) <br/> Kanupriya Johari (RA2111026010373) <br/> Sharad Asawa (RA2111026010365) | Purna Anaaj and Co. Sales Analysis| [Link](https://www.canva.com/design/DAFu-cEcgHw/q1FNBWDBP9LmrxlVQDzzMQ/edit?utm_content=DAFu-cEcgHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    21   | C Hem Swaroop Sai(RA2111003010692) | Apples Sales Analysis | [Link](https://www.canva.com/design/DAFu-SMnq34/51fy7ziYeSdNbh7_9O6cUA/edit?utm_content=DAFu-SMnq34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    22   | Sharath Kollath Ranjith (RA2111032010039) <br/> Chenna Vanshika (RA2111032010059) | Global Smartphone Market Analysis | [Link](https://www.canva.com/design/DAFu7T-xa9w/sfYPfuvZMFxT4Env7aGV1Q/edit?utm_content=DAFu7T-xa9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-
+|    23   |  THORLIKONDA VAMSI KRISHNA (RA2111031010117) <br/> MADA REDDY KULADEEP (RA2111031010072) | social media usage | [Link](https://my.visme.co/view/6xk39vy7-social-media-usage) |
