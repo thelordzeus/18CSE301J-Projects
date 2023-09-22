@@ -29,4 +29,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    22   | Sharath Kollath Ranjith (RA2111032010039) <br/> Chenna Vanshika (RA2111032010059) | Global Smartphone Market Analysis | [Link](https://www.canva.com/design/DAFu7T-xa9w/sfYPfuvZMFxT4Env7aGV1Q/edit?utm_content=DAFu7T-xa9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    23   |  THORLIKONDA VAMSI KRISHNA (RA2111031010117) <br/> MADA REDDY KULADEEP (RA2111031010072) | social media usage | [Link](https://my.visme.co/view/6xk39vy7-social-media-usage) |
 |    24   | Anubhav Pathak (RA2111003010120)  | Expense Analysis | [Link](https://www.canva.com/design/DAFu9r0jA1s/JoQFZdGPV-NqG3mAmDjBMA/edit?utm_content=DAFu9r0jA1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-
+|    25   | Karri Naga Maheswara Reddy(RA2111003011524) | Understanding Bonds: Origins, Types, Global Markets, and Investment Choices | [Link](https://drive.google.com/file/d/159gv4481TkKcWRf1r8dWXFHf-kt62U69/view?usp=sharing) |
