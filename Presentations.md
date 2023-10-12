@@ -30,5 +30,6 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    23   |  THORLIKONDA VAMSI KRISHNA (RA2111031010117) <br/> MADA REDDY KULADEEP (RA2111031010072) | social media usage | [Link](https://my.visme.co/view/6xk39vy7-social-media-usage) |
 |    24   | Anubhav Pathak (RA2111003010120)  | Expense Analysis | [Link](https://www.canva.com/design/DAFu9r0jA1s/JoQFZdGPV-NqG3mAmDjBMA/edit?utm_content=DAFu9r0jA1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    25   | Karri Naga Maheswara Reddy(RA2111003011524) | Understanding Bonds: Origins, Types, Global Markets, and Investment Choices | [Link](https://drive.google.com/file/d/159gv4481TkKcWRf1r8dWXFHf-kt62U69/view?usp=sharing) |
-|   26    | YASHI JAIN(RA2111031010058)  |  Gpays growth analysis | [Link](https://yashi4.github.io/growthgpay/gpaygrowthanalysis.pdf) 
+|   26    | YASHI JAIN(RA2111031010058)  |  Gpays growth analysis | [Link](https://yashi4.github.io/growthgpay/gpaygrowthanalysis.pdf) |
+| 27 | Shoumik Behera (RA2111029010058) Dhrub Dubey (RA2111029010045) | Infant mortality rate | [Link](https://drive.google.com/file/d/1dI7sejQUO3ilhKFYL9Y8rPiOee2zFtZy/view?usp=sharing)
 
